@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* #continer{
+    background-color: rgb(132, 255, 228);
+    border-radius: 5px;
+   padding-left: 40%;
+   flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+} */

@@ -1,0 +1,201 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    height: 0px;
+    width: 0px;
+}
+
+body {
+    /* background-image: url('green_and_white_squares_geometric_shapes_4k_hd_abstract-1600x900.jpg'); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: rgb(84, 92, 84);
+    position: relative;
+}
+
+#header {
+    height: 40px;
+    width: 1280px;
+    margin-top: 30px;
+    position: sticky;
+    /* background-color: crimson; */
+}
+
+#text0 {
+    height: 40px;
+    width: 200px;
+    margin-left: 10px;
+    padding: 10px;
+    /* background-color: blue; */
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#text0:hover {
+    color: black;
+}
+
+#headbtn {
+    height: 25px;
+    width: 100px;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+.btn {
+    height: 25px;
+    width: 80px;
+    margin-left: 20px;
+    cursor: pointer;
+    position: relative;
+    top: -50px;
+    border: none;
+    background-color: rgb(84, 92, 84);
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: black;
+}
+
+#btn0 {
+    margin-left: 280px;
+    margin-right: 40px;
+    
+}
+
+#btn1 {
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 130px;
+}
+
+#btn2 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#btn3 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#btn4 {
+    margin-left: 290px;
+    background-color: black;
+    border-radius: 3px;
+}
+
+#btn4:hover {
+    background-color: white;
+    color: black;
+}
+
+#continer0 {
+    height: 30px;
+    width: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#continer1 {
+    /* background-color: blue; */
+    margin: 250px;
+    margin-left: 470px;
+    margin-top: 40px;
+    height: 30px;
+    width: 250px;
+}
+
+#text1 {
+    /* background-color: black; */
+    border-radius: 1;
+    color: white;
+    height: 50px;
+    width: 700px;
+    margin-top: 150px;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+
+}
+
+#text1:hover {
+    background: linear-gradient(to left,
+            violet,
+            indigo,
+            blue,
+            green,
+            yellow,
+            orange,
+            red);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#text2 {
+    width: 500px;
+    height: 30px;
+    /* background-color: rgb(23, 26, 26); */
+    color: white;
+    margin-top: 25px;
+    margin-left: 120px;
+    font-size: 20px;
+}
+
+#btn5 {
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 115px;
+}
+
+#btn5:hover {
+    color: white;
+    background-color: black;
+}
+
+/*
+#continer2 {
+  height: 20px;
+  width: 100px;
+  background-color: blue;
+  color: black;
+    margin-top: 200px;
+    margin-left: 230px;
+    float: left;
+}  */
+
+img {
+    height: 380px;
+    width: 350px;
+    border-radius: 1px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.font {
+    font-size: 5px;
+    height: 10px;
+    width: 10px;
+    text-decoration: none;
+    text-align: center;
+    opacity: 0.7;
+}
+
+#para1 {
+    width: 500px;
+    padding-top: 62px;
+    padding-left: 500px;
+    margin-top: 130px;
+    font-size: 20px;
+}
